@@ -52,3 +52,4 @@ elif (choice==0 and computer_choice==1) or (choice==1 and computer_choice==2) or
 else:
   print("Human wins.")
 
+#End of Code

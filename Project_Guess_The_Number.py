@@ -52,3 +52,8 @@ while attempts!=0:
 
 if attempts==0:
   print("You have run out of guesses. Game over QQ.")
+
+
+
+#Hello from the other side
+#Adele

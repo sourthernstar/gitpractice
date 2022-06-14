@@ -52,9 +52,7 @@ elif (choice==0 and computer_choice==1) or (choice==1 and computer_choice==2) or
 else:
   print("Human wins.")
 
-#End of Code +master
-
-#Used for committing to other branches
-#test1
-#add more things for testing yo
-#bang bang
+#Change something
+#你好嗎
+#Spy Family
+#wakuwaku

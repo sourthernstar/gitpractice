@@ -62,6 +62,4 @@ if attempts==0:
 #Red
 #COMMIT1
 #COMMIT2
-#COMMIT3
-#COMMIT4
 #BADCOMMIT
